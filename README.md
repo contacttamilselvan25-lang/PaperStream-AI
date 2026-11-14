@@ -1,6 +1,6 @@
-# 📄 Paper Extractor — PDF to Excel Research Tool
+# 📑 PaperExtract AI — Scientific PDF to Structured Excel Research Extractor
 
-Turn a stack of research paper PDFs into a single, structured Excel file — with the help of free AI models.
+> **Automated Literature Extraction Studio** • Transform research paper PDFs into deep, structured Excel datasets with AI-powered entity recognition.
 
 Drag your PDFs in, click **Analyze**, and the app reads each paper and extracts:
 
